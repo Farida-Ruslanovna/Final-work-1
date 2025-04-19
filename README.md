@@ -10,4 +10,5 @@
 - main.cpp: Основной файл, который демонстрирует работу системы.
 ## Учасники:
 <a href="https://github.com/Farida-Ruslanovna/plotjuggler/graphs/contributors">
+  <img src="[https://contrib.rocks/image?repo=facontidavide/plotjuggler](https://github.com/Farida-Ruslanovna/Final-work-1)" />
 </a>
