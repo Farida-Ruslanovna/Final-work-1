@@ -9,4 +9,6 @@
 - Exceptions: определения пользовательских исключений.
 - main.cpp: Основной файл, который демонстрирует работу системы.
 ## Учасники:
-- https://github.com/Farida-Ruslanovna
+<a href="https://github.com/Farida-Ruslanovna/plotjuggler/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=facontidavide/plotjuggler" />
+</a>
